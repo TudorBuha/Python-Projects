@@ -1,0 +1,6 @@
+101, 1, ModelA, 3
+102, 1, ModelB, 2
+103, 2, ModelC, 4
+104, 2, ModelA, 1
+105, 3, ModelB, 5
+106, 4, MercedesBenz, 100

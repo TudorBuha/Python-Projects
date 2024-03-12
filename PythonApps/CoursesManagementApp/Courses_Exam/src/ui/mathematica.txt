@@ -1,0 +1,11 @@
+101, Introduction to Programming, Dr. Smith John, 30
+102, Data Structures, Prof. Emily White, 25
+103, Web Development, Dr. Alex Thompson, 35
+104, Algorithms, Prof. Sarah Brown, 28
+105, Database Management, Dr. Chris Miller, 20
+106, Software Engineering, Prof. Jessica Davis, 32
+107, Artificial Intelligence, Dr. Michael Wilson, 28
+108, Computer Networks, Prof. Olivia Taylor, 25
+109, Operating Systems, Prof. Daniel Thomas, 30
+110, Computer Architecture, Dr. Andrew Jackson, 25
+

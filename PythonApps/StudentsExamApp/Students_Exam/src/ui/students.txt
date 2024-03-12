@@ -1,0 +1,15 @@
+101, Badescu Mihai, 13, 9
+102, Avram Ionut, 13, 9
+103, Vaxim Raluca, 12, 8
+104, Popescu Roxana, 10, 9
+105, Popescu Andrei, 9, 10
+106, Popescu Marius, 8, 10
+107, Micu Matei, 14, 7
+108, Micu Alexia, 11, 8
+109, Micu Maria, 5, 8
+110, Marcel Tudor, 13, 9
+110, Aarcel Tudor, 13, 9
+118, Marius Ioan, 12, 6
+69, Marius Idiotu, 0, 1
+10, Buha Tudor, 100, 9
+123, Teodora Oancea, 69, 10
